@@ -25,6 +25,7 @@
     align-content: end;
     flex-shrink: 0;
     justify-content: space-between;
+    vertical-align: text-bottom;
   }
   .allkinds-index-footer {
     display: flex;
@@ -43,6 +44,7 @@
     line-height: 25.840621948242188px;
     font-stretch: normal;
     text-decoration: none;
+    vertical-align: text-bottom;
   }
   
   .allkinds-index-SectionWithBackground {
